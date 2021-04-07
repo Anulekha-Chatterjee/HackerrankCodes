@@ -1,0 +1,11 @@
+#btn {
+    display: block;
+    border: none;
+    width: 96px;
+    height: 48px;
+    color: rgb(14, 8, 8);
+    padding: 14px 28px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+  }
